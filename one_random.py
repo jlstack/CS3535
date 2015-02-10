@@ -7,6 +7,7 @@ one_random.py
 
 For each beat in the song, replace it with a different random beat that has the same local_context.
 It also plays as it runs using aqplayer instead of creating a new file.
+This is quite a bit more different than the original... Just trying new things.
 
 one.py #original
 By Ben Lacker, 2009-02-18. #original author
@@ -32,7 +33,7 @@ def main(input_filename):
         for j in range(len(bars.__getitem__(i).children())):
             rint = random.randint(0, len(bars) - 1)
             if len(bars.__getitem__(rint).children()) >= j:
-                beat = bars.__getitem__(rint)
+                beat = bars.__getitem__(rint).children()[j]
             else:
                 beat = bars.__getitem__(rint).children()[0]
             player.play(beat, False)
