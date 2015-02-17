@@ -24,7 +24,7 @@ In this research paper, Douglas J. Mason applies [Hierarchical Clustering] "to s
 
 ### 3. Mini-abstract and relevance of [Million Song Dataset]
 
-The Million Song Dataset provides analysis from [The Echo Nest] for a million different songs. With the analysis of many different genres, artists, and albums found in the Million Song Dataset, I hope to use this data to answer question 3 once I have implemented my clustering algorithm. 
+The Million Song Dataset provides analysis from [The Echo Nest] for a million different songs. Since the Million Song Dataset contains the analysis of many different genres, artists, and albums, I hope to use the Million Song Dataset to answer question 3 once I have implemented my clustering algorithm. 
 
 [Programming Collective Intelligence]: http://0-proquest.safaribooksonline.com.wncln.wncln.org/book/web-development/9780596529321
 [The Beatles Genome Project: Cluster Analysis and Visualization of Popular Music]: http://web.cse.ohio-state.edu/~raghu/teaching/CSE5544/Visweek2012/infovis/posters/mason.pdf
