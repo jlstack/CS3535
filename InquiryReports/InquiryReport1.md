@@ -18,7 +18,7 @@ I want to cluster all of the beats in a given song.
 
 Programming Collective Intelligence is a book on processing data using Python. It has multiple chapters on different clustering algorithms that I would like to implement for this project. The two specific algorithms I would like to work with are [Hierarchical Clustering] and [K-Means Clustering]. This resource helps me answer question 1.
 
-### 2. Mini-abstract and relevance of [CLUSTERING BEAT-CHROMA PATTERNS IN A LARGE MUSIC DATABASE]
+### 2. Mini-abstract and relevance of [The Beatles Genome Project: Cluster Analysis and Visualization of Popular Music]
 
 In this research paper, Douglas J. Mason applies [Hierarchical Clustering] " to show statistical phenomena occuring in a corpus of popular songs written by the Beatles." This is similar to what I want to be able to do. I just want to do it according to indivual beats across multiple genres and artists.
 
