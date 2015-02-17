@@ -20,11 +20,11 @@ Programming Collective Intelligence is a book on processing data using Python. I
 
 ### 2. Mini-abstract and relevance of [The Beatles Genome Project: Cluster Analysis and Visualization of Popular Music]
 
-In this research paper, Douglas J. Mason applies [Hierarchical Clustering] " to show statistical phenomena occuring in a corpus of popular songs written by the Beatles." This is similar to what I want to be able to do. I just want to do it according to indivual beats across multiple genres and artists.
+In this research paper, Douglas J. Mason applies [Hierarchical Clustering] " to show statistical phenomena occuring in a corpus of popular songs written by the Beatles." This is similar to what I want to be able to do. I just want to do it according to indivual beats across multiple genres and artists. I also want to use the analysis from [The Echo Nest] opposed to analysis from "a single melodic line written in standard music notation." While Douglas J. Mason's project is very much different from my own, I hope it may help me with what I am trying to accomplish.
 
 ### 3. Mini-abstract and relevance of [Million Song Dataset]
 
-The Million Song Dataset provides the [The Echo Nest] analysis for hundreds of thousands of songs. I hope to use this data to answer question 3 once I implement my clustering algorithm. 
+The Million Song Dataset provides analysis from [The Echo Nest] for hundreds of thousands of songs. I hope to use this data to answer question 3 once I implement my clustering algorithm. 
 
 [Programming Collective Intelligence]: http://0-proquest.safaribooksonline.com.wncln.wncln.org/book/web-development/9780596529321
 [The Beatles Genome Project: Cluster Analysis and Visualization of Popular Music]: http://web.cse.ohio-state.edu/~raghu/teaching/CSE5544/Visweek2012/infovis/posters/mason.pdf
